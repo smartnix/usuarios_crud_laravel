@@ -10,7 +10,7 @@ use App\Mail\Admin;
 use Illuminate\Support\Env;
 use Illuminate\Support\Facades\Mail;
 
-
+// Listener email
 class EmailListener
 {
     /**
