@@ -8,6 +8,7 @@ use Illuminate\Mail\Mailable;
 use Illuminate\Queue\SerializesModels;
 use Illuminate\Support\Facades\DB;
 
+// Mailers
 class Admin extends Mailable
 {
     use Queueable, SerializesModels;
