@@ -6,6 +6,8 @@ use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\DB;
 
+//Metodo schedule:work
+
 class usuarios extends Command
 {
     /**
